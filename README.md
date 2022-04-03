@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @radhikapadsala
 - 👀 I'm passionate about improving processes by identifying current business trends and finding meaningful insights 
 to provide creative solutions for customers. 
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on building predictive models on various datasets
+- 🌱 I’m currently learning Machine Learning.
+- 💞️ I’m looking to collaborate on building predictive models on various datasets.
 - 📫 How to reach me? - Email me on radhika.padsala2@gmail.com
 - 
 <!---
